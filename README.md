@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humazuhair
-- 👀 I’m interested in Web developpement and making cakes
-- 🌱 I’m currently learning computer sciences
+- 👀 I’m interested in Web Developpement 
+- 🌱 I’m a software engineer
 - 📫 How to reach me: h.zuhair.hz@gmail.com
 
 <!---
